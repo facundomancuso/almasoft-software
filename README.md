@@ -14,10 +14,15 @@ Este es un sistema de gestión realizado en conjunto con un gran compañero (Fra
 Tu archivo Sistema.ini debería verse así:
 
   Initial Catalog=Almasoft;
+  
   User ID=TU_USER_SQL_SERVER;
+  
   Password=TU_PASS_SQL_SERVER;
+  
   Data Source=TUDIRECTORIO\SQLAQUI;
+  
   Persist Security Info=True;
+  
   TrustServerCertificate=True
 
 •	Ejecutar Almasoft.exe

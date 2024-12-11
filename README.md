@@ -11,7 +11,9 @@ Este es un sistema de gestión realizado en conjunto con un gran compañero (Fra
 •	Restaurar la base de datos (backup-database/AlmaSoft.bak)
 
 •	Modificar la cadena de conexión del archivo sistema.ini con tus respectivas credenciales (bin/Debug/net8.0-windows/Sistema.ini)
+
 Tu archivo Sistema.ini debería verse así:
+
 
   Initial Catalog=Almasoft;
   
@@ -24,5 +26,6 @@ Tu archivo Sistema.ini debería verse así:
   Persist Security Info=True;
   
   TrustServerCertificate=True
+  
 
 •	Ejecutar Almasoft.exe

@@ -7,6 +7,7 @@ Este es un sistema de gestión realizado en conjunto con un gran compañero (Fra
 
 ## IMPORTANTE: 
 •	Instalar SQL Server 2022 en adelante.
+
 •	Restaurar la base de datos (backup-database/AlmaSoft.bak)
 •	Modificar la cadena de conexión del archivo sistema.ini con tus respectivas credenciales (bin/Debug/net8.0-windows/Sistema.ini)
 •	Ejecutar Almasoft.exe

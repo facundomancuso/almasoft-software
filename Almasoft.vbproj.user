@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Almasoft_Calculadora\frmConsultarPrecio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmTablas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmCierreCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmProductosProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Calculadora\frmCalculadora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmGrillaClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmGrillaProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmGrillaUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmGrillaVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Grillas\frmGrillaProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Login\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Login\frmLogout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_Menu\frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmTablaProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmTablaConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Almasoft_ABM\frmTablaVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

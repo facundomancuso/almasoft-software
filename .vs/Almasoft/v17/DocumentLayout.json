@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectos-portfolio\\almasoft-software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|c:\\proyectos-portfolio\\almasoft-software\\almasoft_menu\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_menu\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_menu\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_menu\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmproductosproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmproductosproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_grillas\\frmgrillaproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_grillas\\frmgrillaproveedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_grillas\\frmgrillaclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_grillas\\frmgrillaclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_grillas\\frmgrillaproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_grillas\\frmgrillaproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_grillas\\frmgrillaproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_grillas\\frmgrillaproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_abm\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_abm\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_calculadora\\frmconsultarprecio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_calculadora\\frmconsultarprecio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|C:\\proyectos-portfolio\\almasoft-software\\almasoft_grillas\\frmgrillaclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{72259065-F8AB-4F97-B058-A1C03E21F22E}|Almasoft.vbproj|solutionrelative:almasoft_grillas\\frmgrillaclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmVentas.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmVentas.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_ABM\\frmVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T19:02:22.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGrillaProductos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaProductos.vb",
+              "RelativeDocumentMoniker": "Almasoft_Grillas\\frmGrillaProductos.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_Grillas\\frmGrillaProductos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:02:10.877Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMenu.vb",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Menu\\frmMenu.vb",
+              "RelativeDocumentMoniker": "Almasoft_Menu\\frmMenu.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Menu\\frmMenu.vb",
+              "RelativeToolTip": "Almasoft_Menu\\frmMenu.vb",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAwI8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T01:52:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Menu\\frmMenu.vb",
+              "RelativeDocumentMoniker": "Almasoft_Menu\\frmMenu.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Menu\\frmMenu.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Almasoft_Menu\\frmMenu.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T01:52:34.558Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProductosProveedores.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmProductosProveedores.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmProductosProveedores.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_ABM\\frmProductosProveedores.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T01:51:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGrillaProveedores.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaProveedores.vb",
+              "RelativeDocumentMoniker": "Almasoft_Grillas\\frmGrillaProveedores.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_Grillas\\frmGrillaProveedores.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T03:12:44.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVentas.vb",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmVentas.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmVentas.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmVentas.vb",
+              "RelativeToolTip": "Almasoft_ABM\\frmVentas.vb",
+              "ViewState": "AQIAALcBAAAAAAAAAAAqwJQBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T03:00:52.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmClientes.vb",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmClientes.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmClientes.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmClientes.vb",
+              "RelativeToolTip": "Almasoft_ABM\\frmClientes.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:47:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmClientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmClientes.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmClientes.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_ABM\\frmClientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:47:06.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmProductos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmProductos.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmProductos.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_ABM\\frmProductos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:46:39.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProductos.vb",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmProductos.vb",
+              "RelativeDocumentMoniker": "Almasoft_ABM\\frmProductos.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_ABM\\frmProductos.vb",
+              "RelativeToolTip": "Almasoft_ABM\\frmProductos.vb",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAiwBoBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:34:40.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmConsultarPrecio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Calculadora\\frmConsultarPrecio.vb",
+              "RelativeDocumentMoniker": "Almasoft_Calculadora\\frmConsultarPrecio.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_Calculadora\\frmConsultarPrecio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:26:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmGrillaClientes.vb",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaClientes.vb",
+              "RelativeDocumentMoniker": "Almasoft_Grillas\\frmGrillaClientes.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaClientes.vb",
+              "RelativeToolTip": "Almasoft_Grillas\\frmGrillaClientes.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:03:27.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGrillaClientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaClientes.vb",
+              "RelativeDocumentMoniker": "Almasoft_Grillas\\frmGrillaClientes.vb",
+              "ToolTip": "D:\\Datos\\Desktop\\SOFTWARE 2024\\PR\u00C1CTICA PROFESIONALIZANTE II\\TRABAJO ANUAL\\Almasoft\\Almasoft_Grillas\\frmGrillaClientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:03:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmGrillaProductos.vb",
+              "DocumentMoniker": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaProductos.vb",
+              "RelativeDocumentMoniker": "Almasoft_Grillas\\frmGrillaProductos.vb",
+              "ToolTip": "C:\\proyectos-portfolio\\almasoft-software\\Almasoft_Grillas\\frmGrillaProductos.vb",
+              "RelativeToolTip": "Almasoft_Grillas\\frmGrillaProductos.vb",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswLAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T01:02:13.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

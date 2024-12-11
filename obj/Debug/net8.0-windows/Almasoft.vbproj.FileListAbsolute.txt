@@ -1,0 +1,314 @@
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmMenu.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.Resources.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.vbproj.GenerateResource.cache
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.AssemblyInfoInputs.cache
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.AssemblyInfo.vb
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.vbproj.CoreCompileInputs.cache
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.sourcelink.json
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Almasoft.exe
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Almasoft.deps.json
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Almasoft.runtimeconfig.json
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Almasoft.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Almasoft.pdb
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\refint\Almasoft.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.pdb
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.genruntimeconfig.cache
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\ref\Almasoft.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaClientes.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaProductos.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaProveedores.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmClientes.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmClientes.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaClientes.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaProductos.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaProveedores.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmMenu.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.Resources.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.vbproj.GenerateResource.cache
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.AssemblyInfoInputs.cache
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.AssemblyInfo.vb
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.vbproj.CoreCompileInputs.cache
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.sourcelink.json
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Almasoft.exe
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Almasoft.deps.json
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Almasoft.runtimeconfig.json
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Almasoft.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Almasoft.pdb
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.vbproj.AssemblyReference.cache
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.vbproj.Up2Date
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\refint\Almasoft.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.pdb
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.genruntimeconfig.cache
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\ref\Almasoft.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.vbproj.AssemblyReference.cache
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.vbproj.Up2Date
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmProveedores.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmProductos.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmLogin.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaVentas.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmVentas.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaUsuarios.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmUsuarios.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmLogout.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaUsuarios.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmGrillaVentas.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmLogin.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmLogout.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmProductos.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmProveedores.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmUsuarios.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmVentas.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.forms.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.io.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.layout.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.sign.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.svg.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.commons.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmCalculadora.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.forms.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.io.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.layout.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.sign.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.svg.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\itext.commons.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmCalculadora.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmProductosProveedores.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmProductosProveedores.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmCierreCaja.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmCierreCaja.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmTablas.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmTablaConfig.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmTablaProductos.resources
+D:\Proyectos\AlmaSoft\AlmaSoft\obj\Debug\net8.0-windows\Almasoft.frmTablaVentas.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmTablaConfig.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmTablaProductos.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmTablaVentas.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmConsultarPrecio.resources
+D:\Datos\Desktop\SOFTWARE 2024\PRÁCTICA PROFESIONALIZANTE II\TRABAJO ANUAL\Almasoft\obj\Debug\net8.0-windows\Almasoft.frmTablas.resources
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Almasoft.exe
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Almasoft.deps.json
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Almasoft.runtimeconfig.json
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Almasoft.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Almasoft.pdb
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.forms.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.io.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.layout.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.sign.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.svg.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\itext.commons.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos-portfolio\almasoft-software\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.vbproj.AssemblyReference.cache
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmClientes.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmProductos.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmProductosProveedores.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmProveedores.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmTablaConfig.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmTablaProductos.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmTablaVentas.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmUsuarios.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmVentas.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmCalculadora.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmConsultarPrecio.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmCierreCaja.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmGrillaClientes.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmGrillaProductos.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmGrillaProveedores.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmGrillaUsuarios.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmGrillaVentas.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmTablas.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmLogin.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmLogout.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.frmMenu.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.Resources.resources
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.vbproj.GenerateResource.cache
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.AssemblyInfoInputs.cache
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.AssemblyInfo.vb
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.vbproj.CoreCompileInputs.cache
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.sourcelink.json
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.vbproj.Up2Date
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.dll
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\refint\Almasoft.dll
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.pdb
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\Almasoft.genruntimeconfig.cache
+C:\proyectos-portfolio\almasoft-software\obj\Debug\net8.0-windows\ref\Almasoft.dll

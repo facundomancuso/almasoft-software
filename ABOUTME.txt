@@ -1,0 +1,23 @@
+**Descripción del Sistema:**
+
+El objetivo principal del sistema es proporcionar una solución integral para la gestión eficiente de información relacionada con productos, proveedores y operaciones financieras. Este sistema está diseñado para facilitar el seguimiento y administración de stock de productos, así como la gestión de datos de proveedores y su vinculación con los productos que suministran. Además, el sistema permite la emisión de facturas en formato de tickets, tanto para consumidores finales como para clientes específicos, garantizando flexibilidad y precisión en las transacciones comerciales.
+
+**Funcionalidades Principales:**
+
+1. **Gestión de Stock de Productos:**
+    - **Seguimiento de Inventario:** Permite a los usuarios registrar, actualizar y eliminar información sobre productos, incluyendo descripciones y niveles de stock.
+    - **Listado de Stock:** Genera listados detallados del stock disponible y/o faltante, con opciones de ordenación por código, alfabéticamente, disponibilidad, entre otros criterios.
+    
+2. **Gestión de Proveedores:**
+    - **Administración de Datos de Proveedores:** Facilita el registro, actualización y eliminación de información de proveedores, incluyendo datos personales y de contacto.
+    - **Vinculación con Productos:** Permite relacionar proveedores con los productos que suministran, proporcionando una visión clara de qué productos ofrece cada proveedor y facilitando la comparación de precios.
+    
+3. **Emisión de Facturación:**
+    - **Facturación en Formato Ticket:** Los usuarios pueden emitir facturas en formato de tickets, adecuadas tanto para consumidores finales como para clientes específicos. El sistema permite seleccionar productos, definir formas de pago y generar una impresión detallada de la transacción.
+    
+4. **Generación de Reportes y Listados:**
+    - **Listados Diversos:** El sistema permite la creación e impresión de listados de stock, clientes, proveedores y proveedores-productos. Los listados pueden ordenarse por varios criterios y se imprimen o exportan según sea necesario.
+    - **Cierre de Caja:** Permite la generación de reportes de cierre de caja diario y mensual, resumiendo ingresos y egresos en efectivo, tarjeta y otros métodos de pago, facilitando el seguimiento financiero.
+    
+
+Este sistema está diseñado para optimizar la gestión operativa y administrativa de una empresa, proporcionando herramientas completas para el seguimiento de productos, la gestión de proveedores y la emisión de facturación, todo con el fin de mejorar la eficiencia y la precisión en las operaciones comerciales.
